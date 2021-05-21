@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MonGPS</string>
+    <string name="localisation_gps">Localisation GPS</string>
+    <string name="textview">TextView</string>
+    <string name="go_to_map">go to map</string>
+    <string name="localisation_ip">Localisation IP</string>
+</resources>
